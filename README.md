@@ -1,4 +1,4 @@
-# Boilerplate React App -v2
+  # Boilerplate React App -V3
 
 This is a more complete boilerplate for react apps with scss support and karma testing.
 
